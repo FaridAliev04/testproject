@@ -1,0 +1,113 @@
+*{
+    font-family: 'Merriweather';
+}
+
+.photo{
+    width: 1340px;
+    margin: 0;
+
+    
+  
+    
+}
+.photoinculde{
+    border: 1px white solid;
+    width: 528px;
+    height: 300px;
+  position: relative;
+  bottom: 224px;
+  left: 85px;
+  background: white;
+  background: #FFFFFF;
+box-shadow: 0px 4px 100px rgba(0, 0, 0, 0.1);
+}
+.inculde{
+    margin: 20px;
+}
+.Explore{
+    width: 130px;
+    height: 30px;
+    background: #F78065;
+    border: 0px white solid;
+    color: white;
+    
+}
+.buttonEx{
+display: flex;
+}
+.world{
+    height: 13px;
+}
+.lesson2{
+     margin-left: 65px;
+     
+    display: flex;
+    justify-content: space-between;
+ 
+}
+.box1{
+   
+}
+.box2{
+    margin-left: 70px;
+    
+}
+.box3{
+    margin-left: 70px;
+}
+.Promoting {
+    font-size: 20px;
+}
+.Additional {
+    font-size: 20px;
+}
+.Free{
+    font-size: 20px;
+}
+.lesson3{
+    width: 95%;
+  margin: 0 auto;
+  padding-left: 65px;
+  margin-right: 40px;
+  margin-top: 60px;
+  
+}
+.Making2{
+    width: 700px;
+}
+
+.boxes{
+    display: flex;
+    justify-content: space-between;
+    width: 1210px;
+   
+}
+.box311{
+    font-size: 21px;
+}
+.box312{
+    font-size: 14px;
+    width: 260px;
+}
+.box321{
+    font-size: 21px;
+}
+.box322{
+    font-size: 14px;
+    width: 260px;
+}
+.box331{
+    font-size: 21px;
+
+}
+.box332{
+    font-size: 14px;
+    width: 260px;
+}
+.box341{
+    font-size: 21px;
+}
+.box342{
+    font-size: 14px;
+    width:260px;
+}
