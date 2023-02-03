@@ -45,9 +45,7 @@ display: flex;
     justify-content: space-between;
  
 }
-.box1{
-   
-}
+
 .box2{
     margin-left: 70px;
     
@@ -110,4 +108,136 @@ display: flex;
 .box342{
     font-size: 14px;
     width:260px;
+}
+#box323{
+    padding-top: 17px;
+}
+
+#box343{
+    padding-top: 17px;
+}
+.Show{
+    border: 0px white solid;
+    background: white;
+    color: #F78065;
+}
+
+
+
+.text{
+    width: 325px;
+}
+
+.lesson4{
+    display: flex;
+    justify-content: space-between;
+    padding-top: 60px;
+    margin-left: 60px;
+}
+
+.text1{
+    width: 325px;
+    height: 171px;
+    
+   
+}
+.text11{
+    font-size: 36px;
+}
+.text2{
+    width: 325px;
+    height: 66px;
+}
+.text21{
+    font-size: 18px;
+}
+.pictures{
+    display: flex;
+   
+}
+.first{
+    padding-right: 50px;
+}
+.second{
+    padding-right: 50px;
+}
+.Lucciano{
+    font-size: 24px;
+}
+.Cremonesi{
+    font-size: 24px;
+}
+.Beneventi{
+    font-size: 24px;
+}
+.Rome{
+font-size: 14px;
+}
+
+.Florence{
+font-size: 14px;
+}
+.Venice{
+    font-size: 14px;
+}
+.View{
+    border: 0px white solid;
+    background:  white;
+    color: #F78065;
+    padding-right: 40px;
+    font-size: 18px;
+}
+
+.text3{
+    background: #F78065;
+    display: flex;
+    width: 200px;
+    height: 50px;
+    margin-top: 20px;
+   
+}
+
+.start{
+    border: 0px white solid;
+    background: #F78065;
+    color: white;
+}
+.text21{
+    color: red;
+}
+.boxes2{
+    display: flex;
+    justify-content: space-between;
+}
+.Convenience{
+    font-size: 22px;
+    
+}
+.You{
+    font-size: 14px;
+}
+.fsb{
+    width: 386px;
+    height: 28px;
+}
+.fsb1{
+    padding-top: 20px;
+    width: 386px;
+    height: 96px;
+}
+.XMLID{
+    width: 32px;
+    height: 32px;
+}
+.book{
+    width: 32px;
+    height: 32px;
+}
+.search{
+    width: 32px;
+    height: 32px;
+}
+.lesson5{
+    padding-left: 60px;
+    padding-top: 40px;
 }
