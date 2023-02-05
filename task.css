@@ -241,3 +241,60 @@ font-size: 14px;
     padding-left: 60px;
     padding-top: 40px;
 }
+
+.Easy1{
+    font-size: 24px;
+}
+.When{
+   
+    width: 304px;
+    height: 240px;
+}
+
+.When1{
+    font-size: 48px;
+}
+.Discover{
+    width: 195px;
+    height: 23px;
+}
+.Discover1{
+    font-size: 18px;
+}
+
+.Lesson611{
+    display: flex;
+    justify-content: space-between;
+}
+
+.Become{
+    width: 171px;
+    height: 23px;
+}
+.Assistance{
+    width: 96px;
+    height: 23px;
+}
+.lesson6{
+    display: flex;
+    justify-content: space-between;
+}
+
+.box61{
+    padding-right: 50px;
+}
+
+.box62{
+    padding-right: 50px;
+}
+.lists1{
+    text-decoration: none;
+}
+.lists{
+    list-style-type: none;
+    
+}
+.ullist{
+    padding-right: 50px;
+
+}
