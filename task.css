@@ -12,6 +12,7 @@
 }
 .photoinculde{
     border: 1px white solid;
+    padding: 58px;
     width: 528px;
     height: 300px;
   position: relative;
@@ -67,7 +68,7 @@ display: flex;
   margin: 0 auto;
   padding-left: 65px;
   margin-right: 40px;
-  margin-top: 60px;
+  margin-top: 120px;
   
 }
 .Making2{
@@ -77,7 +78,7 @@ display: flex;
 .boxes{
     display: flex;
     justify-content: space-between;
-    width: 1210px;
+    width: 1269px;
    
 }
 .box311{
@@ -131,7 +132,7 @@ display: flex;
 .lesson4{
     display: flex;
     justify-content: space-between;
-    padding-top: 60px;
+    margin-top: 120px;
     margin-left: 60px;
 }
 
@@ -239,7 +240,7 @@ font-size: 14px;
 }
 .lesson5{
     padding-left: 60px;
-    padding-top: 40px;
+   margin-top: 150px;
 }
 
 .Easy1{
@@ -276,8 +277,10 @@ font-size: 14px;
     height: 23px;
 }
 .lesson6{
-    display: flex;
-    justify-content: space-between;
+    
+    padding:100px ;
+    background: #F7F7F7;
+    margin-top: 120px;
 }
 
 .box61{
@@ -289,12 +292,49 @@ font-size: 14px;
 }
 .lists1{
     text-decoration: none;
+   
 }
 .lists{
-    list-style-type: none;
-    
+    list-style-type: none; 
+    padding-top: 24px;  
+    font-size: 14px;
+    color: black;
 }
 .ullist{
-    padding-right: 50px;
+    padding: 0;
+    
+}
 
+footer{
+    display: flex;
+    justify-content: space-between;
+}
+
+
+.navbar{
+    display: flex ;
+    justify-content: space-between;
+
+}
+.nav22{
+    display: flex;
+    
+
+}
+.nav222{
+   margin-right: 40px;
+}
+
+.li{
+    list-style-type: none;
+    text-decoration: none;
+    font-size: 14px;
+    color: black;
+}
+.Eazy{
+    font-size: 14px;
+    margin-top: 17px;
+}
+.xett{
+    border: 1px solid black;
 }
